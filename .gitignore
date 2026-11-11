@@ -15,3 +15,6 @@ Packages/
 
 # Misc
 *.log
+
+# XcodeGen output (generate with `xcodegen generate`)
+*.xcodeproj
